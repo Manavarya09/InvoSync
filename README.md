@@ -128,7 +128,7 @@ $ npm run dev
 ## 🌍 Community & Support
 - [GitHub Issues](https://github.com/Manavarya09/HomeStuco/issues)
 - [Discussions](https://github.com/Manavarya09/HomeStuco/discussions)
-- Email: manavarya.singh@gmail.com
+- Email: Smanavarya@gmail.com
 
 ---
 
